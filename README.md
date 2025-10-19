@@ -29,7 +29,7 @@ A modern, secure, and extensible authentication system using [better-auth](https
 
 Create a **`.env`** file in the root of the project and add the following:
 
-```
+```env
 DATABASE_URL="postgresql://user:password@localhost:5432/mydb"
 BETTER_AUTH_SECRET="your-secret-key"
 BETTER_AUTH_URL="http://localhost:3000/api/auth"
@@ -47,7 +47,8 @@ cd Better-Auth-Dashboard
 
 ```
 npm install
-# or yarn install
+# or
+yarn install
 ```
 
 **Setup the database (using Prisma Migrations)**
