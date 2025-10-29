@@ -39,7 +39,7 @@ BETTER_AUTH_URL="http://localhost:3000/api/auth"
 
 **1. Clone the repository**
 
-git clone [https://github.com/your-username/Better-Auth-Dashboard.git](https://github.com/Morshed004/Better-Auth-Dashboard.git) \
+git clone [https://github.com/Morshed004/Better-Auth-Dashboard.git](https://github.com/Morshed004/Better-Auth-Dashboard.git) \
 cd Better-Auth-Dashboard
 
 
